@@ -1,0 +1,24 @@
+{
+  "name": "aqua-shoob",
+  "version": "1.0.2",
+  "description": "Track Shoob Drops",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "keywords": [
+    "shoob",
+    "bot",
+    "anime",
+    "animesoul",
+    "discord.js"
+  ],
+  "author": "stage cleared",
+  "license": "ISC",
+  "dependencies": {
+    "@iamtraction/google-translate": "^1.1.2",
+    "discord-reply": "^0.1.2",
+    "discord.js": "^12.5.3",
+    "quickmongo": "^3.0.2"
+  }
+}

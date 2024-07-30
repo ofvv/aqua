@@ -1,0 +1,9 @@
+{
+  "bot": {
+    "token": ".X0ZnlQ.99-bRPqmJyBbHE3ayHuy3TeyDq0",
+    "prefix": ">",
+    "mongo": "mongodbsrv://godb.net/shoobtest?retryWrites=true&w=majority",
+    "owner": "328768008669495296",
+    "color": "#000001"
+  }
+}
